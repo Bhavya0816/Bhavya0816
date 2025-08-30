@@ -36,14 +36,16 @@ bhavya-kapil-52423b266
 <img src="https://img.shields.io/badge/HR Analytics-FFD700?style=for-the-badge&logo=tableau&logoColor=black" alt="HR Analytics" />
 </p>
  
----
- 
-📊 Featured Projects
 
-📉 Sales Turnover Analysis – Insights into revenue trends & growth patterns
-👥 Employee Management System – Workforce performance & efficiency tracking
 
----
+
+
+### 📊 Featured Projects  
+
+- 📉 **Sales Turnover Analysis** – Insights into revenue trends & growth patterns  
+
+- 👥 **Employee Management System** – Workforce performance & efficiency tracking  
+
  
 ---
  
