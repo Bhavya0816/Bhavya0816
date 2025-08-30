@@ -15,9 +15,9 @@
 
 - 📫 Reach me at **kanhiaysharm909090@gmail.com**  
 
-- 🌐 LinkedIn: (www.linkedin.com/in/
+- 🌐 LinkedIn: www.linkedin.com/in/
 bhavya-kapil-52423b266
-)
+
  
 ---
  
