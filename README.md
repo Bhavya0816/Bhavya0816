@@ -41,15 +41,9 @@ bhavya-kapil-52423b266
 📊 Featured Projects
 
 📉 Sales Turnover Analysis – Insights into revenue trends & growth patterns
-
 👥 Employee Management System – Workforce performance & efficiency tracking
+
 ---
- 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
  
 ---
  
