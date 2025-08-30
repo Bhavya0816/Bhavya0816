@@ -13,9 +13,11 @@
 
 - 💡 Interested in **Business Intelligence, Predictive Analytics & People Analytics**  
 
-- 📫 Reach me at **your.email@example.com**  
+- 📫 Reach me at **kanhiaysharm909090@gmail.com**  
 
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🌐 LinkedIn: (www.linkedin.com/in/
+bhavya-kapil-52423b266
+)
  
 ---
  
@@ -24,10 +26,10 @@
 <img src="https://img.shields.io/badge/MS Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Google Data Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Studio" />
+
 <img src="https://img.shields.io/badge/HRMS-4B0082?style=for-the-badge&logo=workplace&logoColor=white" alt="HRMS" />
 <img src="https://img.shields.io/badge/Recruitment-FF5733?style=for-the-badge&logo=linkedin&logoColor=white" alt="Recruitment" />
 <img src="https://img.shields.io/badge/Employee Engagement-1E90FF?style=for-the-badge&logo=teamviewer&logoColor=white" alt="Employee Engagement" />
@@ -36,16 +38,11 @@
  
 ---
  
-### 📊 Featured Projects
+📊 Featured Projects
 
-- 📈 **Sales Dashboard in Power BI** – Interactive dashboard showing KPIs  
+📉 Sales Turnover Analysis – Insights into revenue trends & growth patterns
 
-- 🏥 **Healthcare Analytics** – Patient trends & prediction using Python  
-
-- 🛒 **E-commerce Data Analysis** – Customer segmentation using SQL & Tableau  
-
-- 👩‍💼 **HR Analytics** – Employee turnover & engagement insights  
- 
+👥 Employee Management System – Workforce performance & efficiency tracking
 ---
  
 ### 📈 GitHub Stats
